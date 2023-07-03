@@ -2,6 +2,16 @@
 
 Estudante de Engenharia de Software com foco em Web Development.
 
+Habilidades e interesses em:
+- HTML
+- CSS
+- JavaScript
+- React
+- NodeJS
+- MongoDB
+- Express
+- C#
+
 🔗 https://www.linkedin.com/in/rodolfo-berwanger-liberado-10aa751b4/
 
 <div align="center">
