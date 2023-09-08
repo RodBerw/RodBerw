@@ -8,6 +8,7 @@ Habilidades e interesses em:
 - JavaScript
 - React
 - NodeJS
+- Bootstrap & Chakra UI
 - MongoDB
 - Express
 - C#
