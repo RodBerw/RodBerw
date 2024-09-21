@@ -1,17 +1,18 @@
-### Olá, me chamo Rodolfo Berwanger.
+### About Me
+I'm a Software Engineering student passionate about web development and modern technologies. My focus is on creating efficient, scalable, and user-friendly applications.
 
-Estudante de Engenharia de Software com foco em Web Development.
-
-Habilidades e interesses em:
-- HTML
-- CSS
-- JavaScript
-- React
-- NodeJS
-- Bootstrap & Chakra UI
-- MongoDB
-- Express
-- C#
+## Skills & Interests:
+HTML
+CSS
+JavaScript
+React
+NestJS
+NodeJS
+Tailwind, Bootstrap & Chakra UI
+MongoDB
+Express
+MySQL
+C#
 
 🔗 https://www.linkedin.com/in/rodolfo-berwanger-liberado-10aa751b4/
 
