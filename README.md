@@ -2,17 +2,17 @@
 I'm a Software Engineering student passionate about web development and modern technologies. My focus is on creating efficient, scalable, and user-friendly applications.
 
 ## Skills & Interests:
-HTML
-CSS
-JavaScript
-React
-NestJS
-NodeJS
-Tailwind, Bootstrap & Chakra UI
-MongoDB
-Express
-MySQL
-C#
+- HTML
+- CSS
+- JavaScript
+- React
+- NestJS
+- NodeJS
+- Tailwind, Bootstrap & Chakra UI
+- MongoDB
+- Express
+- MySQL
+- C#
 
 🔗 https://www.linkedin.com/in/rodolfo-berwanger-liberado-10aa751b4/
 
