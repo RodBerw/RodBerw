@@ -4,7 +4,7 @@ I'm a Software Engineering student passionate about web development and modern t
 ## Skills & Interests:
 - HTML
 - CSS
-- JavaScript
+- JavaScript, Typescript
 - React
 - NestJS
 - NodeJS
