@@ -6,9 +6,9 @@ I'm a Software Engineering student passionate about web development and modern t
 - CSS
 - JavaScript, Typescript
 - React
-- NestJS
+- NextJS
 - NodeJS
-- Tailwind, Bootstrap & Chakra UI
+- TailwindCSS, Bootstrap & Chakra UI
 - MongoDB
 - Express
 - MySQL
