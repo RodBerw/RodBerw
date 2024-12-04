@@ -1,5 +1,5 @@
 ### About Me
-I'm a Software Engineering student passionate about web development and modern technologies. My focus is on creating efficient, scalable, and user-friendly applications.
+Developer specialized in Web applications and IDEs, with a focus on modern and market-relevant technologies.
 
 ## Skills & Interests:
 - HTML
